@@ -1,0 +1,53 @@
+*{
+	margin:0;
+	pading:0;
+	font-family:'Roboto Condensed', sans-serif;
+}
+body{
+	background-image: url('./image1.jpg');
+}
+h1{
+	color:white;
+	font-size:500%;
+	margin:50px;
+	padding:20px;
+}
+h1,h3{
+	text-align: center;
+}
+.head{
+	text-align:center;
+}
+h3{
+	margin:50px;
+	color:#A52A2A;
+	font-size:200%;
+}
+p{
+	font-size:150%;
+	color:white;
+	margin:20px;
+	padding:50px;
+}
+h4{
+	font-size:300%;
+	text-align: center;
+}
+
+p1{
+	margin:40px;
+	font-size:150%;
+
+}
+ul li{
+	margin:30px;
+	text-align: 
+
+}
+div{
+	background-color:white;
+	opacity:0.6
+}
+.colors{
+	border:5pt black solid;
+}
